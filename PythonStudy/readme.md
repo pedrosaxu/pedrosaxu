@@ -2,4 +2,5 @@
 - <strong>ex002:</strong> Read a person's name and welcomes this person.
 - <strong>ex003:</strong> Read two numbers and sum them up.
 - <strong>ex004:</strong> Dissecting a variable.
+- <strong>ex005:</strong> Predecessor and  successor.
 

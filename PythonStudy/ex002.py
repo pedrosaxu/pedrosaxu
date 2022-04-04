@@ -1,4 +1,4 @@
 name = input("What's your name? ")
 
-print("Welcome,", name,"!")
+print(f'Welcome {name}!')
 

@@ -1,1 +1,0 @@
-- <strong>ex001:</strong> crie um programa que escreva "Olá, Mundo!" na tela.

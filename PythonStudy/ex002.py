@@ -1,4 +1,4 @@
-nome = input("What's your name? ")
+name = input("What's your name? ")
 
-print("Welcome,", nome,"!")
+print("Welcome,", name,"!")
 

@@ -1,2 +1,3 @@
-- <strong>ex001:</strong> Crie um programa que escreva "Olá, Mundo!" na tela.
-- <strong>ex002:</strong> Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+- <strong>ex001:</strong> Create a program that prints "Hello world!" on the screen.
+- <strong>ex002:</strong> Create a program that reads a person's name and welcomes this person.
+

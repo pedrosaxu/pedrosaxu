@@ -1,4 +1,4 @@
-nome = input("Qual o seu nome? ")
+nome = input("What's your name? ")
 
-print("Seja bem vinde,", nome,"!")
+print("Welcome,", nome,"!")
 

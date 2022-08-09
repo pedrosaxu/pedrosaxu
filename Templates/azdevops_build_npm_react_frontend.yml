@@ -15,9 +15,9 @@ steps:
   displayName: 'Executando o build...'
 
 - task: CopyFiles@2
-  displayName: 'Copiando os arquivos compilados (/dist) para o diretório de compactação...'
+  displayName: 'Copiando os arquivos compilados (/build) para o diretório de compactação...'
   inputs:
-    SourceFolder: '$(System.DefaultWorkingDirectory)/dist/'
+    SourceFolder: '$(System.DefaultWorkingDirectory)/build/'
     Contents: '**'
     TargetFolder: '$(Build.BinariesDirectory)'
 

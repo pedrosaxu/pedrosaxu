@@ -9,10 +9,6 @@ steps:
   inputs:
     versionSpec: '16.14.2'
   displayName: 'Instalando o Node.js 16.14.2...'
-
-- script: |
-    npm install -g yarn
-  displayName: 'Instalando o Yarn...'
   
 - script: |
     npm i && npm run build

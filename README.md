@@ -1,6 +1,6 @@
 👋 Hi, I’m a <strong>Devops Engineer</strong> based in São Paulo. 
-- 👀 I’m interested in <strong>Devops</strong> and automating everything I can.
-- 🌱 I’m currently learning Python!
+- 👀 I’m interested in <strong>Devops</strong>, <strong>IaC</strong>, <strong>CICD Pipelines</strong> and <strong>Cloud Computing</strong>.
+- 🌱 I’m currently learning <strong>AWS Cloud</strong>!
 
 Let's get in touch!
 - julianun3sp@gmail.com

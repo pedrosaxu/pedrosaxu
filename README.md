@@ -11,6 +11,7 @@ Let's get in touch!
 [![PedrosaXu'Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosaxu&hide=css,html,jupyter%20notebook&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 📚 My current Learning Path:
+
 ![image](https://github.com/pedrosaxu/julianunesp/assets/101535045/c7f09993-c90c-4856-b906-331b4445947a)
 
 

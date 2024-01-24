@@ -6,8 +6,7 @@ Terraform | Python | Shellscript | Powershell |  DevOps | Cloud Computing | Kube
 Let's get in touch!
 - 📬 julianun3sp@gmail.com | [LinkedIn](http://linkedin.com/in/julianunesp/)
 
-[![PedrosaXu's Github Stats](https://github-readme-stats.vercel.app/api?username=pedrosaxu)](https://github.com/anuraghazra/github-readme-stats)
-
+[![PedrosaXu's Github Stats](https://github-readme-stats.vercel.app/api?username=pedrosaxu)](https://github.com/anuraghazra/github-readme-stats) 
 [![PedrosaXu'Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosaxu&hide=css,html,jupyter%20notebook&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 📚 My current Learning Path:

@@ -1,7 +1,7 @@
 👋 🇧🇷 Hi, I’m a <strong>Devops Specialist</strong> based in São Paulo. 
 - 🌱 I’m currently learning <strong>Kubernetes</strong>!
 
-Brasil | Python | Shellscript | Powershell |  DevOps | Cloud Computing | Terraform | Kubernetes ⏳
+Terraform | Python | Shellscript | Powershell |  DevOps | Cloud Computing | Kubernetes ⏳
 
 Let's get in touch!
 - 📬 julianun3sp@gmail.com | [LinkedIn](http://linkedin.com/in/julianunesp/)

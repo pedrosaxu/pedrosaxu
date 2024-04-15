@@ -1,17 +1,21 @@
-👋 🇧🇷 Hi, I’m a <strong>Devops Specialist</strong> based in São Paulo. 
-- 🌱 I’m currently learning <strong>Kubernetes</strong>!
+# Julia Pedrosa - @pedrosaxu
+ Terraform | Python | Shellscript | Powershell |  DevOps | Cloud Computing | Kubernetes
 
-Terraform | Python | Shellscript | Powershell |  DevOps | Cloud Computing | Kubernetes ⏳
-
-Let's get in touch!
-- 📬 julianun3sp@gmail.com | [LinkedIn](http://linkedin.com/in/pedrosaxu/)
+### 📬 Let's get in touch!
+- julianun3sp@gmail.com | [LinkedIn](http://linkedin.com/in/pedrosaxu/)
 
 [![PedrosaXu's Github Stats](https://github-readme-stats.vercel.app/api?username=pedrosaxu)](https://github.com/anuraghazra/github-readme-stats) 
 [![PedrosaXu'Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosaxu&hide=css,html,jupyter%20notebook&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-📚 My current Learning Path:
+### 🎓 Certifications
 
-![image](https://github.com/pedrosaxu/julianunesp/assets/101535045/c7f09993-c90c-4856-b906-331b4445947a)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 
 <!---

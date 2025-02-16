@@ -10,6 +10,7 @@
 ### 🎓 Certifications
 
 <!--START_SECTION:badges-->
+[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/63ecebd6-c318-43a9-9551-5f121ca86c10 "GitHub Actions")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/2cfe6112-a158-4fb7-89da-5b24f5b99c3f "CKA: Certified Kubernetes Administrator")
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/84b657de-9bee-40fc-8b91-fb64cfba8856 "AWS Certified SysOps Administrator – Associate")
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/72784d7e-a0ac-4e4d-8788-cc40f1b0b711 "Microsoft Certified: Azure Administrator Associate")
